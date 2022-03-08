@@ -11,7 +11,6 @@ public class Demo1Application {
         Person person = new Person();
         person.setFirstName("Юрий");
         person.setSecondName("Рыбников");
-
         System.out.println(person.getFirstName() + " " + person.getSecondName());
     }
 
